@@ -7,7 +7,7 @@ export default function Topbar() {
     <div className="topbar">
       <div className="topbarWrapper">
         <div className="topLeft">
-          <span className="logo">BLANCALUXURY ADMIN</span>
+          <span className="logo">SKIEK INTEGRATED ADMIN</span>
         </div>
       </div>
     </div>
